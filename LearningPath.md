@@ -92,3 +92,7 @@
 ## Platforms to Practice
 - Leetcode
 - Edabit (OPTIONAL)
+
+---
+up:: [MOC-Programming](../../../01-index/MOC-Programming.md)
+#type/learning #source/self-study #status/seed

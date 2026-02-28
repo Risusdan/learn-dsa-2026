@@ -185,3 +185,5 @@
 **Why It Matters**: Tries and Union-Find are specialized but powerful — tries power every search engine's autocomplete, and Union-Find is the most efficient way to track connected components (used in Kruskal's algorithm and network connectivity). The remaining techniques (two heaps, merge intervals, cyclic sort, fast/slow pointers) are common problem-solving patterns that appear repeatedly in interview problems and real systems. This week consolidates everything into practical problem-solving ability.
 
 ---
+up:: [MOC-Programming](../../../01-index/MOC-Programming.md)
+#type/learning #source/self-study #status/seed
