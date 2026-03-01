@@ -6,18 +6,18 @@
 
 | Week | Topic                                          | Status         |
 | ---- | ---------------------------------------------- | -------------- |
-| 1    | Intro + Arrays + Linked Lists                  | ⬜ Not started |
-| 2    | Stacks, Queues, Hash Tables                    | ⬜ Not started |
-| 3    | Algorithmic Complexity                         | ⬜ Not started |
-| 4    | Sorting Algorithms                             | ⬜ Not started |
-| 5    | Searching + Two Pointers + Sliding Window      | ⬜ Not started |
-| 6    | Recursion, Backtracking, Divide and Conquer    | ⬜ Not started |
-| 7    | Trees                                          | ⬜ Not started |
-| 8    | Balanced Trees + Heaps                         | ⬜ Not started |
-| 9    | Graphs                                         | ⬜ Not started |
-| 10   | Graph Algorithms                               | ⬜ Not started |
-| 11   | Dynamic Programming + Greedy Algorithms        | ⬜ Not started |
-| 12   | Advanced DS + Remaining Techniques + Practice  | ⬜ Not started |
+| 1    | Intro + Arrays + Linked Lists                  | ✅ Done        |
+| 2    | Stacks, Queues, Hash Tables                    | ✅ Done        |
+| 3    | Algorithmic Complexity                         | ✅ Done        |
+| 4    | Sorting Algorithms                             | ✅ Done        |
+| 5    | Searching + Two Pointers + Sliding Window      | ✅ Done        |
+| 6    | Recursion, Backtracking, Divide and Conquer    | ✅ Done        |
+| 7    | Trees                                          | ✅ Done        |
+| 8    | Balanced Trees + Heaps                         | ✅ Done        |
+| 9    | Graphs                                         | ✅ Done        |
+| 10   | Graph Algorithms                               | ✅ Done        |
+| 11   | Dynamic Programming + Greedy Algorithms        | ✅ Done        |
+| 12   | Advanced DS + Remaining Techniques + Practice  | ✅ Done        |
 
 ---
 
